@@ -39,6 +39,7 @@
   &__call {
     height: 0;
     background-image: url(../images/phone.svg);
+    text-decoration: none;
 
     @include onDesktop {
       &::before {
